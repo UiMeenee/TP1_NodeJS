@@ -1,0 +1,19 @@
+{
+  "name": "TP1_NodeJS",
+  "version": "1.0.0",
+  "description": "TP1 nodejs",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index2.js",
+    "start_base": "node src/index.js"
+  },
+  "author": "Votre nom",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "uuid": "^9.0.1"
+  }
+}
